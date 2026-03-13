@@ -1,0 +1,1 @@
+# watch-scanner core application
